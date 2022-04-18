@@ -1,0 +1,39 @@
+#search {
+	margin: auto;
+	background-color: transparent;
+	border-radius: 10px;
+	border-width: 1px;
+	border-color: aqua;
+	border-style: solid;
+	height: 20px;
+	width: 100px;
+	color: aqua;
+}
+#plus {
+	margin: 1%;
+	border-radius: 100%;
+	border: 50px;
+	height: 25px;
+	width: 25px;
+	background-color: aqua;
+	color: azure;
+}
+#account {
+	margin: auto;
+	background-color: cornflowerblue;
+	height: 30px;
+	width: 175px;
+	border: 10%;
+	border-radius: 0px;
+	color: white;
+	border-color: black;
+	box-shadow: 4px 3px 0px 1px black;
+}
+#button1 {
+	text-align: left;
+	display: inline-block;
+}
+#button3 {
+	text-align: left;
+	display: inline-block;
+}
